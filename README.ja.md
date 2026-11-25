@@ -1,5 +1,7 @@
 # hayate（疾風）
 
+![hayate（疾風）](./hayate.jpg)
+
 [English](README.md)
 
 Windows 11 と WSL2 のプロジェクトをまとめて検索する Go 製 CLI です。選択したディレクトリへ移動し、設定したアクションを実行できます。

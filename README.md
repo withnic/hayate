@@ -1,5 +1,7 @@
 # hayate
 
+![hayate](./hayate.jpg)
+
 [日本語](README.ja.md)
 
 hayate is a Go CLI that searches project directories across Windows 11 and WSL2. Select a project to jump to its directory and optionally run a configured action.
